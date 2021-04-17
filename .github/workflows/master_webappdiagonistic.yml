@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'webappdiagonistic'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_76d3260d166d49e39293b1bb04f6531c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_286c8bd4e8d0420f9f2fc5c0528e1730 }}
         package: .
